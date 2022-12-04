@@ -37,6 +37,12 @@ bool schedule(
     // Add your code below
 
 
+    //recursive solution is based around dates
+    //for each date try all of the combinations of the employees that are free so it satisfies working employee
+    //subtract number of days that the worker can work for maximum maxShifts
+    //keep track of 2d matrix for assigning
+
+    
 
 
 }
